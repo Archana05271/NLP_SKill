@@ -1,0 +1,11 @@
+Document 1,Document 2,Similarity (%),Status
+student_anu.txt,student_bala.txt,46.7,Low Similarity
+student_bala.txt,student_catherine.txt,21.14,Low Similarity
+student_catherine.txt,student_devi.txt,10.05,Low Similarity
+student_anu.txt,student_catherine.txt,9.44,Low Similarity
+student_catherine.txt,student_eshwar.txt,7.75,Low Similarity
+student_devi.txt,student_eshwar.txt,5.57,Low Similarity
+student_bala.txt,student_eshwar.txt,4.29,Low Similarity
+student_anu.txt,student_eshwar.txt,3.47,Low Similarity
+student_bala.txt,student_devi.txt,2.13,Low Similarity
+student_anu.txt,student_devi.txt,0.95,Low Similarity

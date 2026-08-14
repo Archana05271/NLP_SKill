@@ -1,0 +1,49 @@
+document.getElementById("id).onclick = function(){
+document.getElementById("heading").innerHtml = "
+import {createContext} from "react";
+cost UserContext = creatContext();
+
+< UserContext.Provider value = 
+
+
+import torch 
+from torch.utilis.data import Dataset,DataLoader
+from collections import Counter 
+
+texts = [-------]
+
+tokens = [t.lower().split() for t in texts]
+
+counter = Counter()
+for t in tokens:
+counter.update(t)
+
+vocab = ["<PAD>":0 ,"<UNK>":1]
+for w in counter:
+vocab[w] = len(vocab)
+
+data = [[vocab.get(w,1),for w in t]for t in tokens)
+
+class TextDataset(Dataset):
+def __init__(self,data):
+self .data = data
+
+def __len__
+
+V = [{}]
+path = {}
+for s in states:
+V[0][s] = start[s]
+
+for t in range(1,len(obs):
+V.append({})
+new={}
+
+for cur in states:
+p,prev = max((V[t-1][ps] * trans[ps][cur] * emit[cur][obs[t]],ps)
+for ps in states)
+v{t]{cur] = p
+new[path] = path[prev]+[cur]
+path = new 
+prob,state = max(V[-1][s],s] 
+Artificial intelligence is transforming modern technology and changing the way people work. Machine learning enables computers to learn patterns from data and make useful predictions without being directly programmed for every task. Artificial intelligence is used in healthcare to support medical diagnosis and in education to provide personalized learning experiences. Businesses use AI systems to automate repetitive tasks and improve customer service. These technologies are becoming important in many industries.
